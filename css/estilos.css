@@ -1,0 +1,36 @@
+*{
+  color:white;
+  background-color:;
+}
+
+/*Estilos para el index*/
+
+#c1{
+background-color: black;
+height:10%;
+}
+
+/*Mid content*/
+#c2{
+background-color: black;
+height:1000px;
+}
+
+#c3{
+background-color: black;
+height:20%;
+}
+
+/*bg Borde generico*/
+.bg{
+  background-color: white;
+}
+
+.g1{
+  background-color: red;
+}
+
+
+.servicios{
+
+}

@@ -1,0 +1,17 @@
+@media (max-width: 400px){
+  body{background-color:red;}
+}
+
+.fondonegro{background: black;}
+.caja{border-style: dotted;}
+.fuentemenu{
+  font-family: 'Archivo Black', sans-serif;
+  font-style: italic;
+  font-size: 15px;
+  color:white;}
+
+.menubordesup{height:10px;}
+.menubordeinf{height:10px;}
+
+.a{border-style: dotted; border-color:red;}
+.fuenteblanca{color:white;}
